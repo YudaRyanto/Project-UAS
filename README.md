@@ -43,33 +43,58 @@ Berikut adalah Source Code dari program di atas
 # B. Penjelasan
 - ```while True``` Merupakan kondisi perulangan atau looping, di mana kode program akan dijalankan berulang kali sampai mendapatkan kondisi berhenti untuk mengulangnya.
 - untuk memembuat perulangan pada pilihan menu yang akan tampil sebagai pilihan user. saya menggunakan fungsi
-```if
+
+
+``if
 elif
-else```
+else``
+
 fungsi ```if-else``` untuk mengambil kondisi tertentu dan memeriksa apakah kondisinya benar atau salah. Jika kondisinya benar, maka pernyataan ```if``` mengeksekusi blok kode tertentu. Jika kondisinya salah, maka pernyataan else mengeksekusi blok kode yang berbeda.
 
 # 5. HASIL OUTPUT
 Tambah Data
+
 - Dokumentasi program tambah data proses eksekusi
+
 <img width="960" alt="2023-01-13 (1)" src="https://user-images.githubusercontent.com/115479429/212371558-8b82c145-54ba-4bb4-b2ea-08c6ca34ce8c.png">
+
 <img width="960" alt="2023-01-13 (2)" src="https://user-images.githubusercontent.com/115479429/212371588-b69dbe84-e97c-4863-abcf-f0fa948db66a.png">
+
 - setelah eksekusi
+
 <img width="960" alt="2023-01-13 (3)" src="https://user-images.githubusercontent.com/115479429/212371777-60e650f0-ffa1-4b8e-ab98-1a64294d8775.png">
+
 # Ubah Data
+
 - Dokumentasi program ubah data proses eksekusi
+
 <img width="960" alt="2023-01-13 (4)" src="https://user-images.githubusercontent.com/115479429/212372210-a95e4a1b-c4ce-4cd7-bb12-a5f0c628ad4f.png">
+
 - setelah eksekusi
+
 <img width="960" alt="2023-01-13 (5)" src="https://user-images.githubusercontent.com/115479429/212372259-7397e597-4bd6-4dd1-8fec-50aed9de80f8.png">
+
 # Cari Data
+
 - Dokumentasi program cari data
+
 <img width="960" alt="2023-01-13 (6)" src="https://user-images.githubusercontent.com/115479429/212372499-c9166c0f-ac78-4b9a-9ea7-f15fd1267d13.png">
+
 # Menampilkan Semua Data
+
 - Dokumentasi program menampilkan data
+
 <img width="960" alt="2023-01-13 (7)" src="https://user-images.githubusercontent.com/115479429/212372747-119f7695-4772-4753-b90e-b8b54062ad12.png">
+
 # Hapus Data
+
 - Dokumentasi program Hapus data
+
 <img width="960" alt="2023-01-13 (8)" src="https://user-images.githubusercontent.com/115479429/212373253-622db9db-6772-470f-9756-76b6908756d3.png">
-#Keluar Program
+
+# Keluar Program
+
 - Dokumentasi keluar program
+
 <img width="960" alt="2023-01-13 (10)" src="https://user-images.githubusercontent.com/115479429/212373470-9d50b924-7c54-46dc-9f82-41dae2d2b99a.png">
 
